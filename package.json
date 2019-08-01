@@ -1,0 +1,14 @@
+{
+  "name": "geoexp",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "three": "^0.107.0"
+  },
+  "devDependencies": {
+    "electron": "^6.0.0"
+  }
+}
